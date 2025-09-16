@@ -9,4 +9,10 @@
 <img width="649" height="289" alt="Ansible_Ad-hoc_Cmd_07" src="https://github.com/user-attachments/assets/1a286b3e-ecb9-4c6f-9c47-e9092a3c4d11" />
 <img width="650" height="229" alt="Ansible_Ad-hoc_Cmd_09" src="https://github.com/user-attachments/assets/2dd82c2a-5fc0-4e44-ac56-206465cfe0af" />
 <img width="727" height="428" alt="Ansible_Ad-hoc_Cmd_10" src="https://github.com/user-attachments/assets/45bd6b0d-f126-4d1b-8145-9d1e3e674cbb" />
+<img width="785" height="421" alt="Ansible_Ad-hoc_Cmd_11" src="https://github.com/user-attachments/assets/6a1d7b44-57d9-47cb-b450-1d5c9d0ff6ce" />
+<img width="637" height="143" alt="Ansible_Ad-hoc_Cmd_12" src="https://github.com/user-attachments/assets/bbe6fadd-f9c6-41ae-bc57-e5534d298c50" />
+<img width="692" height="122" alt="Ansible_Ad-hoc_Cmd_13" src="https://github.com/user-attachments/assets/7e419ac7-ecbc-4c8f-b6a0-fa62be02e6a1" />
+<img width="793" height="404" alt="Ansible_Ad-hoc_Cmd_14" src="https://github.com/user-attachments/assets/afcddb28-c65c-436d-a619-4cd76267aaa5" />
+<img width="772" height="149" alt="Ansible_Ad-hoc_Cmd_15" src="https://github.com/user-attachments/assets/66add590-ebe3-4c27-9eb9-1bedae03f111" />
+<img width="667" height="131" alt="Ansible_Ad-hoc_Cmd_16" src="https://github.com/user-attachments/assets/b60dc8a8-4fcc-4ed0-aa22-58d6f5c70aa7" />
 
