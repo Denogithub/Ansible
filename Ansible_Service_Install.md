@@ -7,3 +7,5 @@
 <img width="645" height="137" alt="wget-playbook_04" src="https://github.com/user-attachments/assets/bf3b677a-dec4-4ecf-a915-284af1939b80" />
 <img width="646" height="191" alt="wget_playbook_05" src="https://github.com/user-attachments/assets/60bd9d6e-058c-4c00-a425-ef3e339785b8" />
 <img width="788" height="249" alt="wget_playbook_06" src="https://github.com/user-attachments/assets/07a2735a-4fdb-4118-8c46-11a6b28e25e4" />
+<img width="682" height="179" alt="wget_playbook_07" src="https://github.com/user-attachments/assets/08c0f64c-7f9b-4218-8523-b71f6d4e0e4a" />
+<img width="671" height="186" alt="wget_playbook_08" src="https://github.com/user-attachments/assets/5386a913-b512-4300-9776-b3ff9bb0fd93" />
