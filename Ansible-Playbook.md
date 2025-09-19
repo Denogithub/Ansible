@@ -18,4 +18,9 @@
 <img width="701" height="179" alt="httpd_playbook_06" src="https://github.com/user-attachments/assets/bf65e27d-cd38-476f-8764-306c74d90d37" />
 <img width="714" height="179" alt="httpd_playbook_07" src="https://github.com/user-attachments/assets/44457532-344b-46d6-9243-e442adc964d1" />
 <img width="575" height="173" alt="httpd_playbook_08" src="https://github.com/user-attachments/assets/5455567b-f653-456b-831d-2d1fcfa929d2" />
+<img width="641" height="172" alt="httpdwget_01" src="https://github.com/user-attachments/assets/a12d1e35-6914-4d60-9d55-c87021644d76" />
+<img width="562" height="174" alt="httpdwget_02" src="https://github.com/user-attachments/assets/8b8e5bfb-c1f1-400f-be11-4f6ef36e5053" />
+<img width="689" height="329" alt="httpdwget_03" src="https://github.com/user-attachments/assets/4e88aa2e-878b-4abf-b2d9-857e8d247fb1" />
+<img width="650" height="278" alt="httpdwget_04" src="https://github.com/user-attachments/assets/365af1d8-5ef4-4b88-b780-5c647f26b8f9" />
+<img width="791" height="229" alt="httpdwget_05" src="https://github.com/user-attachments/assets/95d55f6e-16ff-4fca-bfdb-429eda9e36b3" />
 
