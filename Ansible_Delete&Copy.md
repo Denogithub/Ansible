@@ -13,3 +13,8 @@
 <img width="659" height="190" alt="Deleting_ _Copying_files-playbook_11" src="https://github.com/user-attachments/assets/252ee84d-1f63-4c20-ac90-010b3fc96f44" />
 <img width="734" height="248" alt="Deleting_ _Copying_files-playbook_12" src="https://github.com/user-attachments/assets/dbbab0f5-9748-4f96-a6f8-a835b453b069" />
 <img width="640" height="131" alt="Deleting_ _Copying_files-playbook_13" src="https://github.com/user-attachments/assets/57a6e7d1-4512-4542-853d-891f445f9dae" />
+<img width="656" height="131" alt="Deleting_ _Copying_files-playbook_14" src="https://github.com/user-attachments/assets/456d9720-46ab-45b7-a919-327e016e479a" />
+<img width="743" height="253" alt="Deleting_ _Copying_files-playbook_15" src="https://github.com/user-attachments/assets/e5812896-7c19-4523-b188-c149d97793b4" />
+<img width="772" height="410" alt="Deleting_ _Copying_files-playbook_16" src="https://github.com/user-attachments/assets/675586e7-c11c-4abe-9dcf-d084aed10b80" />
+<img width="674" height="225" alt="Deleting_ _Copying_files-playbook_17" src="https://github.com/user-attachments/assets/5100391a-f13c-4a41-8e21-463f5a2ece15" />
+<img width="764" height="249" alt="Deleting_ _Copying_files-playbook_18" src="https://github.com/user-attachments/assets/c03e152d-6fb6-4b40-bf3f-d62356de39f1" />
