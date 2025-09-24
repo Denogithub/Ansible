@@ -21,3 +21,10 @@
 <img width="782" height="401" alt="Ansible_Handler_18" src="https://github.com/user-attachments/assets/40ae34d0-41d5-4eb8-a77e-95754ca377bf" />
 <img width="785" height="404" alt="Ansible_Handler_19" src="https://github.com/user-attachments/assets/de8169e8-98f1-4f44-aae9-062291d26381" />
 <img width="457" height="167" alt="Ansible_Handler_20" src="https://github.com/user-attachments/assets/3a4761db-60a9-4176-9e07-52090e2debff" />
+<img width="499" height="185" alt="Ansible_Handler_21" src="https://github.com/user-attachments/assets/88f56040-941a-4d9c-9670-03e63161b5cc" />
+<img width="782" height="408" alt="Ansible_Handler_22" src="https://github.com/user-attachments/assets/4b380c67-d0a1-45c1-9fd2-9d1082865617" />
+<img width="647" height="407" alt="Ansible_Handler_23" src="https://github.com/user-attachments/assets/5eea7835-2de9-4016-aac5-05c5e89904c1" />
+<img width="787" height="281" alt="Ansible_Handler_24" src="https://github.com/user-attachments/assets/20a70fc1-590a-4ebc-874f-462fe2bd2df7" />
+<img width="781" height="258" alt="Ansible_Handler_25" src="https://github.com/user-attachments/assets/c5916da2-b99d-41a7-9412-9f0e47aaa5f0" />
+<img width="785" height="281" alt="Ansible_Handler_26" src="https://github.com/user-attachments/assets/137fe572-e9bb-4e46-9006-d94db8199ae9" />
+<img width="787" height="253" alt="Ansible_Handler_27" src="https://github.com/user-attachments/assets/b9dc2508-2b69-4c1f-807a-ad44304c44f6" />
