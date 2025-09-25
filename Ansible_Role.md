@@ -10,6 +10,14 @@
 <img width="782" height="295" alt="Ansible_Role_08" src="https://github.com/user-attachments/assets/eeea395e-86d6-410f-a133-5d6ae63f1615" />
 <img width="779" height="262" alt="Ansible_Role_09" src="https://github.com/user-attachments/assets/4b113d50-40d2-4346-90bb-5645358d41c7" />
 <img width="787" height="284" alt="Ansible_Role_10" src="https://github.com/user-attachments/assets/476242fa-a5cc-441a-af8b-4d2ce479442f" />
+<img width="784" height="275" alt="Ansible_Role_11" src="https://github.com/user-attachments/assets/dc1dc370-d44c-4202-ba6e-464d641ed563" />
+<img width="641" height="116" alt="Ansible_Role_12" src="https://github.com/user-attachments/assets/c188766c-1df6-416c-8e70-fec324187010" />
+<img width="764" height="404" alt="Ansible_Role_13" src="https://github.com/user-attachments/assets/f573adf7-0699-401f-8314-d9d8852eda49" />
+<img width="781" height="307" alt="Ansible_Role_14" src="https://github.com/user-attachments/assets/824692df-ff11-4286-baa1-5ac93b11db52" />
+<img width="782" height="401" alt="Ansible_Role_15" src="https://github.com/user-attachments/assets/526a6d5d-0ee2-43b2-a5a0-652abac7fcdb" />
+<img width="790" height="314" alt="Ansible_Role_16" src="https://github.com/user-attachments/assets/f3c54514-1d74-4b04-aaa0-024d373f87bd" />
+<img width="773" height="412" alt="Ansible_Role_17" src="https://github.com/user-attachments/assets/9a557b48-be0d-4a28-9ec2-d09bfb074e38" />
+<img width="451" height="169" alt="Ansible_Role_18" src="https://github.com/user-attachments/assets/260eb6bc-3f44-46fb-a19b-4a0b7fb24828" />
 
 
 
