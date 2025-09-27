@@ -1,1 +1,1 @@
-# The when condition in Ansible enables conditional task execution within playbooks. Tasks marked with a when clause will only run if the specified condition evaluates to True. If the condition is False, the task is skipped on that particular host.#
+# The when condition in Ansible enables conditional task execution within playbooks. Tasks marked with a when clause will only run if the specified condition evaluates to True. If the condition is False, the task is skipped on that particular host. #
