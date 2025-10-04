@@ -12,3 +12,15 @@
 <img width="715" height="410" alt="Ansible_ _git_Versioning_10" src="https://github.com/user-attachments/assets/1aaf8717-6de9-489c-a2f9-e3e5a51d5517" />
 <img width="766" height="407" alt="Ansible_ _git_Versioning_11" src="https://github.com/user-attachments/assets/622c1a33-7f0d-479e-9cba-ef33d249a4f7" />
 <img width="677" height="403" alt="Ansible_ _git_Versioning_12" src="https://github.com/user-attachments/assets/efae6c28-06f6-4f26-9505-7ad7bc466bd7" />
+<img width="701" height="209" alt="Ansible_ _git_Versioning_13" src="https://github.com/user-attachments/assets/28381b2d-5fed-4f34-989c-a2986508084b" />
+<img width="674" height="352" alt="Ansible_ _git_Versioning_14" src="https://github.com/user-attachments/assets/90fa6373-005c-4b7c-a56a-e96835e88461" />
+<img width="629" height="380" alt="Ansible_ _git_Versioning_15" src="https://github.com/user-attachments/assets/c373c08d-ec76-4eb7-8655-e3b53ff32f60" />
+<img width="715" height="278" alt="Ansible_ _git_Versioning_16" src="https://github.com/user-attachments/assets/fd3ae0bb-31ba-4964-8b2b-dc19750f3887" />
+<img width="761" height="270" alt="Ansible_ _git_Versioning_17" src="https://github.com/user-attachments/assets/03d82d43-b0cc-4475-83a0-16caa5c223dc" />
+<img width="775" height="410" alt="Ansible_ _git_Versioning_18" src="https://github.com/user-attachments/assets/1dae2090-1526-4454-944b-3b42ab19aaa1" />
+<img width="781" height="405" alt="Ansible_ _git_Versioning_19" src="https://github.com/user-attachments/assets/bf41fcdb-cf9b-4cf3-9664-7c0838847824" />
+<img width="611" height="119" alt="Ansible_ _git_Versioning_20" src="https://github.com/user-attachments/assets/3a70282d-966c-4df5-a0b8-e2cd3a9cbb4d" />
+<img width="695" height="317" alt="Ansible_ _git_Versioning_21" src="https://github.com/user-attachments/assets/7fe148cc-4021-4d3e-a610-fe67dd050e89" />
+<img width="656" height="304" alt="Ansible_ _git_Versioning_22" src="https://github.com/user-attachments/assets/cba05190-32da-4734-b4c4-c38e830849c0" />
+<img width="834" height="314" alt="Ansible_ _git_Versioning_23" src="https://github.com/user-attachments/assets/90f71109-5da7-46e3-9484-811820ca090e" />
+<img width="909" height="254" alt="Ansible_ _git_Versioning_24" src="https://github.com/user-attachments/assets/5e17cc84-2082-4dd1-a7ed-0a1c3072a154" />
